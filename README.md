@@ -13,9 +13,9 @@
     <a href="https://github.com/Larry6942021/LRY7"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/Larry6942021/LRY7/issues">Report Bug</a>
+    <a href="https://discord.gg/PmuSqh9Y4Z">Join Discord</a>
     .
-    <a href="https://github.com/Larry6942021/LRY7/issues">Request Feature</a>
+    <a href="https://discord.gg/PmuSqh9Y4Z">Request Feature</a>
   </p>
 </p>
 
@@ -118,16 +118,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+## Credit
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Larry6942021/LRY7/blob/main/LICENSE.md) for more information.
-
-## Authors
-
-* **Shaan Khan** - *Comp Sci Student* - [Shaan Khan](https://github.com/ShaanCoding/) - *Built ReadME Template*
-
-## Acknowledgements
-
-* [Link 1](google.com)
-* []()
-* []()
+* [Join Discord](https://discord.gg/PmuSqh9Y4Z)
+* Made by Larry6
